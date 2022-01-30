@@ -1,0 +1,57 @@
+[
+  {
+    
+    "category": "Shirts",
+    "tag": "Mens",
+    "name": "Polo",
+    "brand": "Levi",
+    "size": "Large",
+    "unitPrice": "40",
+    "description": "black men's polo keeps you cool and dry for all day comfort.",
+    "inventory": "25"
+  },
+
+  {
+    "category": "Shirts",
+    "tag": "Womens",
+    "name": "Polo",
+    "brand": "Levi",
+    "size": "Small",
+    "unitPrice": "40",
+    "description": "black womens's polo keeps you cool and dry for all day comfort.",
+    "inventory": "30"
+  },
+
+  {
+    "category": "Shirts",
+    "tag": "Childrens",
+    "name": "Polo",
+    "brand": "Levi",
+    "size": "Medium",
+    "unitPrice": "29",
+    "description": "black children's polo keeps you cool and dry for all day comfort.",
+    "inventory": "10"
+  },
+
+  {
+    "firstName": "Will",
+    "lastName": "Smith",
+    "email": "will@gmail.com",
+    "phone": "3134432678",
+    "address": "232 west hollows street",
+    "city": "Detroit",
+    "State": "MI",
+    "postal": "48161"
+  },
+  {
+    "firstName": "Kimber",
+    "lastName": "Staltz",
+    "email": "kimmy@gmail.com",
+    "phone": "3054652212",
+    "address": "2465 NE 8th Ave",
+    "city": "Miami",
+    "State": "FL",
+    "postal": "33180"
+  }
+]
+
