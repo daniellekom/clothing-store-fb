@@ -52,6 +52,39 @@
     "city": "Miami",
     "State": "FL",
     "postal": "33180"
-  }
+  },
+{
+
+  "trackingNumber": "12345",
+  "orderDate":"January 5th 2022",
+  "deliveryDate":"January 10 2022",
+  "totalAmount":"80",
+  "paymentType":"credit card",
+  "productsArray": [{"price":40, "productId":"1","qty":2,"subtotal":80},{"price":40,"productId":"2","qty":1,"subtotal":40}],
+  "custId":"100"
+
+
+},
+{
+
+  "trackingNumber": "653456",
+  "orderDate":"february 5th 2022",
+  "deliveryDate":"february 16 2022",
+  "totalAmount": 29,
+  "paymentType": "credit card",
+  "productsArray": [{"price": 29, "productsId":3,"qty":1}],
+  "custId":"101"
+  
+
+
+
+
+
+
+}
+
+
+
+
 ]
 
